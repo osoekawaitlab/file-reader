@@ -25,6 +25,7 @@ classifiers = [
 ]
 
 dependencies = [
+    "oltl @ git+https://github.com/osoekawaitlab/ol-type-library",
 ]
 
 [project.urls]
