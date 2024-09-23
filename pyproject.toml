@@ -26,6 +26,9 @@ classifiers = [
 
 dependencies = [
     "oltl @ git+https://github.com/osoekawaitlab/ol-type-library",
+    "pillow",
+    "python-magic",
+    "python-pptx",
 ]
 
 [project.urls]
